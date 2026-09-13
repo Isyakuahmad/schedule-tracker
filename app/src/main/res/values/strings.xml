@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Schedule Tracker</string>
+    <string name="happening_now">Happening Now</string>
+    <string name="no_active_event">No scheduled events right now</string>
+    <string name="add_schedule">Add Schedule</string>
+    <string name="title_hint">Event / Task Title</string>
+    <string name="notes_hint">Notes (optional)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirm">Are you sure you want to delete this event?</string>
+    <string name="filter_all">All</string>
+</resources>
