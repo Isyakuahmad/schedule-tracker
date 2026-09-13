@@ -1,0 +1,19 @@
+<resources>
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_light">#EEF2FF</color>
+    <color name="accent">#06B6D4</color>
+    <color name="background">#F8FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="divider">#E2E8F0</color>
+    
+    <!-- Category Colors -->
+    <color name="cat_work">#2563EB</color>
+    <color name="cat_study">#7C3AED</color>
+    <color name="cat_fitness">#059669</color>
+    <color name="cat_personal">#D97706</color>
+    <color name="cat_meeting">#DC2626</color>
+    <color name="cat_other">#475569</color>
+</resources>
